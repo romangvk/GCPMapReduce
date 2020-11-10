@@ -1,0 +1,5 @@
+big data	67
+hadoop	25
+azure	82
+google cloud	64
+aws	65
